@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/paintguru/static/css/main.8508b821.chunk.css",
+    "main.js": "/paintguru/static/js/main.ccef9c6f.chunk.js",
+    "main.js.map": "/paintguru/static/js/main.ccef9c6f.chunk.js.map",
+    "runtime-main.js": "/paintguru/static/js/runtime-main.85099d6c.js",
+    "runtime-main.js.map": "/paintguru/static/js/runtime-main.85099d6c.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/paintguru/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.df797d3d.chunk.js": "/paintguru/static/js/2.df797d3d.chunk.js",
+    "static/js/2.df797d3d.chunk.js.map": "/paintguru/static/js/2.df797d3d.chunk.js.map",
+    "static/js/3.8a4b0e43.chunk.js": "/paintguru/static/js/3.8a4b0e43.chunk.js",
+    "static/js/3.8a4b0e43.chunk.js.map": "/paintguru/static/js/3.8a4b0e43.chunk.js.map",
+    "index.html": "/paintguru/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/paintguru/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.8508b821.chunk.css.map": "/paintguru/static/css/main.8508b821.chunk.css.map",
+    "static/js/2.df797d3d.chunk.js.LICENSE.txt": "/paintguru/static/js/2.df797d3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85099d6c.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.df797d3d.chunk.js",
+    "static/css/main.8508b821.chunk.css",
+    "static/js/main.ccef9c6f.chunk.js"
+  ]
+}
